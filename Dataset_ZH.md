@@ -66,15 +66,9 @@
 | DuIE2.0 |  通用新闻 | 包含超过43万三元组数据、21万中文句子及48个预定义的关系类型 | https://www.luge.ai/#/luge/dataDetail?id=5 |  |  |
 | SciCN | 科技文献 | 手动注释的大约,6w+实体和2w+的关系 |  |  |  |
 | FinRE | 金融 | 手动注释的财务关系提取数据集FINRE，其中包含44个关系（双向）和18000多个实例 | https://github.com/thunlp/Chinese_NRE |  | Chinese Relation Extraction with Multi-Grained Information and External Linguistic Knowledge
- |
 | CMeIE | 中文医疗 | CBULE的一部分，数据集中定义了53个关系，其中包括10个同义子关系和其他43个子关系。 | https://tianchi.aliyun.com/cblue?spm=5176.12282016.0.0.140e7474IE2ln0 |  | CMeIE: Construction and Evaluation of Chinese Medical Information Extraction Dataset |
-| 科大讯飞21 | 医疗实体及关系识别 | 1）训练集约4000条中文标注数据
-2）测试集A约1000条数据
-3）测试集B约1000条数据 | https://challenge.xfyun.cn/topic/info?type=medical-entity&ch=dc-web-35 |  |  |
-| Chinese-Literature-NER-RE-Dataset | 文学 | 9 types of
-relations among 837 Chinese literature articles, in
-which 695 articles for training, 84 for testing and
-the rest 58 for validating. | https://github.com/lancopku/Chinese-Literature-NER-RE-Dataset |  | A Discourse-Level Named Entity Recognition and Relation Extraction Dataset for Chinese Literature Text |
+| 科大讯飞21 | 医疗实体及关系识别 | 1）训练集约4000条中文标注数据，2）测试集A约1000条数据，3）测试集B约1000条数据 | https://challenge.xfyun.cn/topic/info?type=medical-entity&ch=dc-web-35 |  |  |
+| Chinese-Literature-NER-RE-Dataset | 文学 | 9 types ofrelations among 837 Chinese literature articles, in which 695 articles for training, 84 for testing and the rest 58 for validating. | https://github.com/lancopku/Chinese-Literature-NER-RE-Dataset |  | A Discourse-Level Named Entity Recognition and Relation Extraction Dataset for Chinese Literature Text |
 
 ## 事件抽取（8）
 
